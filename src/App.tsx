@@ -3,7 +3,7 @@ import { Layout } from './common/layout/Layout'
 
 function App() {
   return (
-    <div>
+    <div style={{ backgroundColor: 'lightgray', minHeight: '100vh' }}>
       <Layout />
     </div>
   )
